@@ -3,7 +3,7 @@ module github.com/hinshun/buildkitconsumer
 go 1.14
 
 require (
-	github.com/containerd/containerd v1.3.1-0.20200227195959-4d242818bf55
+	github.com/containerd/containerd v1.3.3
 	github.com/moby/buildkit v0.7.0
 )
 
